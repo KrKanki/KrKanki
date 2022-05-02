@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 🥇 1일1커밋과 회고를 매일 실천 합니다
 - 🔭 I’m currently working on spring-boot
 - 🌱 I’m currently learning JPA, spring-boot
-- 📫 How to reach me: goodlife1359@gmail.com
+- 📫 How to reach me: bigkim3545@gmail.com
 - <div align=right>
 	
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKrKanki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
