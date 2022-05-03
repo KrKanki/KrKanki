@@ -14,12 +14,6 @@ Here are some ideas to get you started:-->
 - <div align=right>
 	
    </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrKanki&layout=compact)](https://github.com/KrKanki/github-readme-stats)
-![KrKanki's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrKanki&show_icons=true&theme=radical)
-
-
-
 <!-- git stats -->
 | <a href="https://github.com/KrKanki" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=KrKanki&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/KrKanki" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrKanki&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
